@@ -1,6 +1,5 @@
 ﻿#pragma strict
 
-var speed: float = 10f;
 var rb: Rigidbody2D;
 
 function Start () {
@@ -10,24 +9,20 @@ function Start () {
 
 function Update () {
 
- 		if (Input.GetKey(KeyCode.LeftArrow))
+ 		if (Input.GetKey(KeyCode.A))
          {
-         	
+         	transform.Rotate (Vector3.forward * 5);
              //transform.position += Vector3.left * speed * Time.deltaTime;
-            rb.AddForce(Vector2.right * speed);
+            rb.velocity.x = -10;
          }
-         if (Input.GetKey(KeyCode.RightArrow))
+         if (Input.GetKey(KeyCode.D))
          {
-        	rb.AddForce(Vector2.right * speed);
+        	rb.velocity.x = 10;
              //transform.position += Vector3.right * speed * Time.deltaTime;
+             transform.Rotate (Vector3.forward * -5);
          }
-         if (Input.GetKey(KeyCode.UpArrow))
+         if (Input.GetKey(KeyCode.W))
          {
-             	rb.AddForce(Vector2.up * speed);
+         	rb.velocity.y = 20;
          }
-         if (Input.GetKey(KeyCode.DownArrow))
-         {
-             //transform.position += Vector3.down * speed * Time.deltaTime;
-         }
-
 }
