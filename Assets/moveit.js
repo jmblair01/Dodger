@@ -1,9 +1,11 @@
 ﻿#pragma strict
 
 var rb: Rigidbody2D;
+var onGround:boolean;
 
 function Start () {
  rb = GetComponent.<Rigidbody2D>();
+ onGround = true;
 	 
 }
 
@@ -23,6 +25,17 @@ function Update () {
          }
          if (Input.GetKey(KeyCode.W))
          {
-         	rb.velocity.y = 20;
+         
+            if(onGround ) {
+		       rb.velocity.y = 20;
+		       onGround = false;
+		    }
+         
          }
 }
+
+function OnTriggerStay2D (hitInfo: Collider2D)
+ {
+       onGround = true;
+    
+ }
