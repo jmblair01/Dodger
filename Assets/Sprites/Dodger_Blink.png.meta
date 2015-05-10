@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 guid: 92c36de250ef4164cbd5e4fd273ce688
-timeCreated: 1431281456
+timeCreated: 1431281665
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Dodger_Blink_0
+    21300002: Dodger_Blink_1
+    21300004: Dodger_Blink_2
+    21300006: Dodger_Blink_3
+    21300008: Dodger_Blink_4
+    21300010: Dodger_Blink_5
+    21300012: Dodger_Blink_6
+    21300014: Dodger_Blink_7
+    21300016: Dodger_Blink_8
+    21300018: Dodger_Blink_9
+    21300020: Dodger_Blink_10
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,14 +41,14 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +59,117 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Dodger_Blink_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 392
+        width: 388
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_1
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 392
+        width: 389
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_2
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 392
+        width: 383
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_3
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 392
+        width: 389
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_4
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 392
+        width: 389
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_5
+      rect:
+        serializedVersion: 2
+        x: 5589
+        y: 392
+        width: 389
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_6
+      rect:
+        serializedVersion: 2
+        x: 6668
+        y: 392
+        width: 389
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_7
+      rect:
+        serializedVersion: 2
+        x: 7747
+        y: 392
+        width: 389
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_8
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 392
+        width: 383
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_9
+      rect:
+        serializedVersion: 2
+        x: 9911
+        y: 392
+        width: 388
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dodger_Blink_10
+      rect:
+        serializedVersion: 2
+        x: 10990
+        y: 392
+        width: 388
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
