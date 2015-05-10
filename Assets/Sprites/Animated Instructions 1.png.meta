@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: d23d96789d06c924ebb42be6f7dc6acd
+timeCreated: 1431297741
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Animated Instructions 1_0
+    21300002: Animated Instructions 1_1
+    21300004: Animated Instructions 1_2
+    21300006: Animated Instructions 1_3
+    21300008: Animated Instructions 1_4
+    21300010: Animated Instructions 1_5
+    21300012: Animated Instructions 1_6
+    21300014: Animated Instructions 1_7
+    21300016: Animated Instructions 1_8
+    21300018: Animated Instructions 1_9
+    21300020: Animated Instructions 1_10
+    21300022: Animated Instructions 1_11
+    21300024: Animated Instructions 1_12
+    21300026: Animated Instructions 1_13
+    21300028: Animated Instructions 1_14
+    21300030: Animated Instructions 1_15
+    21300032: Animated Instructions 1_16
+    21300034: Animated Instructions 1_17
+    21300036: Animated Instructions 1_18
+    21300038: Animated Instructions 1_19
+    21300040: Animated Instructions 1_20
+    21300042: Animated Instructions 1_21
+    21300044: Animated Instructions 1_22
+    21300046: Animated Instructions 1_23
+    21300048: Animated Instructions 1_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Animated Instructions 1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 17
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 17
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 32
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 32
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 32
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 30
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 32
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 32
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_11
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 32
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 19
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 19
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 32
+        width: 49
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_15
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 32
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_16
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 32
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_17
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 26
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_18
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 32
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 32
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_20
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 19
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_21
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 19
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_22
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 32
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_23
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 32
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Animated Instructions 1_24
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 17
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
